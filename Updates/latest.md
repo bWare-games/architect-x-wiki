@@ -7,6 +7,33 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.0 | 2026-02-14
+## Class D Riot Update
+
+### New
+- Class D Riots randomly happen
+ - Based on risk ratios found in emergency management
+- Alarms
+- Emergency Management
+- NEW Low-Poly assets for lag and stability. Many SCPs and objects have been re-worked.
+
+### Changes
+Levels and progression rescaled. Now using exponential + linear. This should make late game feel less agony and grindy.
+
+Pathfinding v1000 (or whatever)
+This should hopefully be the final fix to weird issues with pathfinding. The pathfinding grid is now 4x more detailed so NPCs can walk in pretty tight spaces. Enable debug mode and go into build mode to view path grid.
+
+There are probably 500+ changes in this update.
+The code base has been re-written from the ground up, because of this, the following functionality is *NOT* available due to rework.
+- SCP Effects (this will be added later, but its not a core game mechanic)
+- SCP 173 kills (will be implemented with breach update)
+
+Additionally, for performance and because there really isnt a reason to have more NPCs I have removed research for 30 security, class D, and scientist. There is literally not reason (given the current content in-game) to have this other than lag servers.
+
+Many quality of life changes have been made. Such as removal of duplicate name protection on foundations and UI Fixes. There is also a minimum energy needs configuration to block tests for NPCs under this range.
+
+### NOTE: Because I am a not smart, I accidently released alarms. They will be removed when you join this new update.
+
 # v1.12.23 | 2026-01-22
 
 - Shop fixes & improvements
