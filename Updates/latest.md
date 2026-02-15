@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.5 | 2026-02-15
+
+- Lowered the limits on many objects for performance.
+- Fixed Class D balancer hiring too many Class Ds.
+- Optimized Path grid calculation
+- Riot Improvements and Fixes
+
 
 # v1.13.4 | 2026-02-15
 
