@@ -2,11 +2,12 @@
 title: Latest Update
 description: 
 published: true
-date: 2025-07-27T16:57:36.998Z
+date: 2026-02-15T01:54:12.238Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+
 # v1.13.1 | 2026-02-15
 
 - Performance Fixes
@@ -39,7 +40,7 @@ Additionally, for performance and because there really isnt a reason to have mor
 
 Many quality of life changes have been made. Such as removal of duplicate name protection on foundations and UI Fixes. There is also a minimum energy needs configuration to block tests for NPCs under this range.
 
-### NOTE: Because I am a not smart, I accidently released alarms. They will be removed when you join this new update.
+### NOTE: Because I am a not smart, I accidentally released alarms. They will be removed when you join this new update.
 
 # v1.12.23 | 2026-01-22
 
