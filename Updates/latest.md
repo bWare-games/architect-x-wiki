@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.1 | 2026-02-15
+
+- Performance Fixes
+- Riot Risk % Fixes
+- Economy fixes
+- Moving object fixes
+
 # v1.13.0 | 2026-02-14
 ## Class D Riot Update
 
