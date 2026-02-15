@@ -2,11 +2,19 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-02-15T01:54:12.238Z
+date: 2026-02-15T19:57:18.665Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+
+# v1.13.4 | 2026-02-15
+
+- Class D Toilet
+- Class D toilets are a seperate object, no more linking!
+- Cafeteria tables don't require links
+- Tutorial updates and clarity improvements
+
 # v1.13.3 | 2026-02-15
 
 - New auto link function (auto on by default)
