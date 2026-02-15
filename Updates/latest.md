@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.2 | 2026-02-15
+
+- Fixed loading giant bases
+- Improved loader (loads you in the game instantly)
+- Fixed buying objects crediting money
+
 
 # v1.13.1 | 2026-02-15
 
