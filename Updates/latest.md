@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.3 | 2026-02-15
+
+- New auto link function (auto on by default)
+- Tutorial  changes
+- Misc. Fixes
+
 # v1.13.2 | 2026-02-15
 
 - Fixed loading giant bases
