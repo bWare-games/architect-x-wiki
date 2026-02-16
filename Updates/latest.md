@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.6 | 2026-02-16
+
+- Path grid simplification for performance improvements
+- Patrol improvements
+- Class D Riot (class Ds nerfed, security buffed)
+
 # v1.13.5 | 2026-02-15
 
 - Lowered the limits on many objects for performance.
