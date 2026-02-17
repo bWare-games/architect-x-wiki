@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.7 | 2026-02-17
+
+- Tutorial Redesign & Improved
+- NEW Class D only Cafeteria Tables (old tables will only go for personnel)
+- Fixed being able to place alarms before research.
+- Made riot triggers less frequent
+
 # v1.13.6 | 2026-02-16
 
 - Path grid simplification for performance improvements
