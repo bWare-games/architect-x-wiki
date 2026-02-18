@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.12 | 2026-02-18
+
+- New No Path Icons that appear on objects that NPCs cant find paths to
+- Added power explanation to tutorial
+- Added power production and usage to management page (renamed to World)
+- New Starter base for Classic game mode
+
 # v1.13.9 | 2026-02-18
 
 - Buffed security in riot
