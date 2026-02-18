@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.9 | 2026-02-18
+
+- Buffed security in riot
+- Lowered NPC maximums with different research requirements
+
 # v1.13.8 | 2026-02-17
 
 - Tutorial reliability fixes
