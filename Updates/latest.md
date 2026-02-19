@@ -2,14 +2,15 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-02-15T19:57:18.665Z
+date: 2026-02-19T18:41:16.844Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+
 # v1.13.13 | 2026-02-19
 
-- Global maximum objects per foundation is now set at 15,000 objects and displayed in the usage proeprty
+- Global maximum objects per foundation is now set at 15,000 objects and displayed in the usage property on Main Menu
 - Placement fixes and improvements
     - Many wall attached items will need replacing (game is BETA!)
 - NPC status UI respects wall checks
