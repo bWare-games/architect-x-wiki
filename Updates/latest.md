@@ -2,7 +2,7 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-02-19T18:41:16.844Z
+date: 2026-02-19T18:42:10.162Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
@@ -21,7 +21,7 @@ dateCreated: 2025-05-04T06:27:06.560Z
 
 - New No Path Icons that appear on objects that NPCs cant find paths to
 - Added power explanation to tutorial
-- Added power production and usage to management page (renamed to World)
+- Added power production and usage to management page (renamed to Info)
 - New Starter base for Classic game mode
 
 # v1.13.9 | 2026-02-18
