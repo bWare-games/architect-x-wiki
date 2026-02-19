@@ -7,6 +7,15 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.13 | 2026-02-19
+
+- Global maximum objects per foundation is now set at 15,000 objects and displayed in the usage proeprty
+- Placement fixes and improvements
+    - Many wall attached items will need replacing (game is BETA!)
+- NPC status UI respects wall checks
+- Drastically improved client frame rates due to replication
+- Gamepad support (game now open on console!)
+
 # v1.13.12 | 2026-02-18
 
 - New No Path Icons that appear on objects that NPCs cant find paths to
