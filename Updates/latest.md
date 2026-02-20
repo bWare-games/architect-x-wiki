@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.14 | 2026-02-20
+
+- Fixed pathfinding stale grid issues
+- Improved pathfinding performance
+- Fixed server memory issues
+
 
 # v1.13.13 | 2026-02-19
 
