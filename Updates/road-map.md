@@ -2,7 +2,7 @@
 title: Road Map
 description: 
 published: true
-date: 2025-06-16T00:00:58.302Z
+date: 2026-02-21T03:16:36.585Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T17:14:55.135Z
@@ -35,7 +35,7 @@ These are features that aren't quite ready but are planned.
 ## Servers Increase to 8 Players [Planned]
 - The timing of this is still unknown as there are massive performance implications for this change. A lot of time will need to be spent micro-optimizing the NPCs and pathfinding to acomplish this.
 
-## Class D Riot [Planned]
+## Class D Riot [In-Progress]
 - Class Ds who are neglected and lack of security monitoring will riot
 - The entire facility will go on lockdown during a riot, testing will be paused, Class Ds might kill staff
 
