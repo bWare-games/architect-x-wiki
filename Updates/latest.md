@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.15 | 2026-02-22
+
+- New! Help menu that will show you real time potential issues with your foundation
+- Misc fixes and improvements
+
 # v1.13.14 | 2026-02-20
 
 - Fixed pathfinding stale grid issues
