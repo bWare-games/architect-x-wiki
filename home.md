@@ -2,7 +2,7 @@
 title: Home Page
 description: Explore the SCP Architect wiki.
 published: true
-date: 2026-02-24T14:26:02.004Z
+date: 2026-02-24T15:43:54.117Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-07T18:38:30.996Z
