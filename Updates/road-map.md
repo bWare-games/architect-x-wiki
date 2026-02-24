@@ -2,7 +2,7 @@
 title: Road Map
 description: 
 published: true
-date: 2026-02-24T14:17:49.096Z
+date: 2026-02-24T14:17:56.423Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T17:14:55.135Z
@@ -14,7 +14,7 @@ dateCreated: 2025-05-15T17:14:55.135Z
 These are features that aren't quite ready but are planned.
 
 ## More Humanoid SCPs (EUCLID & KETER)
-- More SCPs focuses on humanoid SCPs that interact and move arround your facility.
+- More SCPs focused on humanoid SCPs that interact and move arround your facility.
 
 ## Servers Increase to 6 Players [Planned]
 - The timing of this is still unknown as there are massive performance implications for this change. A lot of time will need to be spent micro-optimizing the NPCs and pathfinding to acomplish this.
