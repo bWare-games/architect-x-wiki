@@ -2,7 +2,7 @@
 title: Road Map
 description: 
 published: true
-date: 2026-02-24T14:17:56.423Z
+date: 2026-02-24T14:18:07.900Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T17:14:55.135Z
@@ -29,7 +29,7 @@ These are features that aren't quite ready but are planned.
 
 
 
-## Building System Overhaul [Completed]
+## Building System Overhaul [COMPLETE]
 - Rotate in 45 Degree Angles
 - Angled Walls/Doors
 - Variety of Structures
