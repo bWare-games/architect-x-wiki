@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2026-02-24T14:20:45.816Z
+date: 2026-02-24T14:23:31.790Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-11T03:15:43.217Z
@@ -58,9 +58,30 @@ Where:
 - `c` = base cost (1000 for Scientist, 1500 for Security)  
 - `n` = number of NPCs of that type you already own  
 
-This function raises 1.4 (the growth rate) to the power of `n`, multiplies it by `c`, and rounds to a whole number.
+The static multipliers are:
+  1: 1,
+	2: 5,
+	3: 10,
+	4: 15,
+	5: 20,
+	6: 25,
+	7: 30,
+	8: 35,
+	9: 40,
+	10: 50,
+	11: 60,
+	12: 80,
+	13: 100,
+	14: 150,
+	15: 200,
+	16: 400,
+	17: 500,
+	18: 600,
+	19: 800,
+	20: 1000,
 
-Think of `c` as the base cost, and `1.4^n` as the inflation multiplier that increases the price each time you hire another NPC.
+ So at `17` NPCs a multiplier of `500` is applied to the NPC's based cost.
+ For example, the `17th` scientist `($1000)` will cost `500 x 1000` = `$500,000`
 
 ---
 
