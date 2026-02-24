@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2026-02-24T14:23:31.790Z
+date: 2026-02-24T14:24:05.825Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-11T03:15:43.217Z
@@ -58,7 +58,9 @@ Where:
 - `c` = base cost (1000 for Scientist, 1500 for Security)  
 - `n` = number of NPCs of that type you already own  
 
-The static multipliers are:
+`f(n)`
+
+The static multipliers in `f(n)` are:
   1: 1,
 	2: 5,
 	3: 10,
