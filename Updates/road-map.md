@@ -2,7 +2,7 @@
 title: Road Map
 description: 
 published: true
-date: 2026-02-24T14:18:07.900Z
+date: 2026-02-24T14:18:26.176Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T17:14:55.135Z
@@ -28,19 +28,19 @@ These are features that aren't quite ready but are planned.
 - The entire facility will go on lockdown during a raid, testing will be paused, the Insurgents may kill staff
 
 
-
-## Building System Overhaul [COMPLETE]
+# Completed
+## Building System Overhaul
 - Rotate in 45 Degree Angles
 - Angled Walls/Doors
 - Variety of Structures
 - Individual Floor, Walls, Ceilings, and Lights
 - More skins to come later, two skins available now
 
-## Sector System [COMPLETE]
+## Sector System
 - 2 Sectors you can Build in; Sector 1 and Sector 2; Sector 3 and OMEGA coming at a future date
 
 
-## Class D Riot [COMPLETE]
+## Class D Riot
 - Class Ds who are neglected and lack of security monitoring will riot
 - The entire facility will go on lockdown during a riot, testing will be paused, Class Ds might kill staff
 
