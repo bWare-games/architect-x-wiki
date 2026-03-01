@@ -2,7 +2,7 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-03-01T21:30:41.635Z
+date: 2026-03-01T21:30:52.712Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
@@ -26,7 +26,7 @@ dateCreated: 2025-05-04T06:27:06.560Z
 - x2 Pipe Stack Decor
 - Posters (ported from SCP Architect)
 - New Pack (to come in a patch later this week)
-- Guard Posts (+ directional indiciation)
+- Guard Posts (+ directional indication)
 
 ### Changes
 - New NPC Animations
