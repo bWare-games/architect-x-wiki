@@ -7,6 +7,37 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.13.16 | 2026-03-01
+
+### Updates
+- Vending Machine Decor
+- x2 Locker Decor
+- Cupboard Decor
+- New Shelf Variant Decor
+- Cabinet Decor
+- x4 Crate Decor
+- x2 Pipe Stack Decor
+- Posters (ported from SCP Architect)
+- New Pack (to come in a patch later this week)
+
+### Changes
+- New NPC Animations
+- Better NPC idling: idle npcs "stand by" and use couches and vending machines
+- Class Ds will break objects during riot, engineers must fix them.
+- SCP tests now priortize higher profit SCPs.
+- Added money particles for money generating activities
+- Upgraded Jecs ECS 0.10.2
+
+### Fixes
+- Cross sector deletion/moving fixed
+- Many NPC Fixes
+- Many Server Memory Improvements
+- Riot fixes
+- Camera Fixes
+- High CPU Usage rendering NPC models
+- Mobile Improvements
+- Improved job cancellation handling
+
 # v1.13.15 | 2026-02-22
 
 - New! Help menu that will show you real time potential issues with your foundation
