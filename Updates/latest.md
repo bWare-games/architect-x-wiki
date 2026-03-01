@@ -2,13 +2,13 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-03-01T18:39:24.269Z
+date: 2026-03-01T18:44:44.096Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
 
-# v1.14.0 | 2026-03-01
+# v1.14.0 / v1.13.6 | 2026-03-01
 
 ### Updates
 - Vending Machine Decor
