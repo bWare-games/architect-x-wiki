@@ -2,7 +2,7 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-03-01T21:10:59.505Z
+date: 2026-03-01T21:11:10.946Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
@@ -14,7 +14,7 @@ dateCreated: 2025-05-04T06:27:06.560Z
 - Delayed Medium Zone Skin Added
 
 
-# v1.14.0 / v1.13.6 | 2026-03-01
+# v1.14.0 | 2026-03-01
 
 ### Updates
 - Vending Machine Decor
