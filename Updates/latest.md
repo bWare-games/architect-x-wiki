@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.15.1 | 2026-03-01
+
+- Improved performance of linking
+- Delayed Medium Zone Skin Added
+
 
 # v1.14.0 / v1.13.6 | 2026-03-01
 
