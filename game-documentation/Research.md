@@ -2,7 +2,7 @@
 title: Research
 description: Research in SCP Architect X
 published: true
-date: 2025-07-10T19:41:57.910Z
+date: 2026-03-01T21:05:05.603Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-30T00:27:00.895Z
@@ -18,7 +18,7 @@ The Research Tree is accessible by the microscope icon in the bottom left-center
 
 ![research_tree.gif](/medal_cihhd3udjs.gif)
 
-The Research Tree as of V0.4.13
+The Research Tree as of V0.4.13 (Not up to date)
 
 ## Research Stars
 
