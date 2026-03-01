@@ -2,12 +2,13 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-03-01T20:02:43.695Z
+date: 2026-03-01T21:10:59.505Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
-# v1.15.1 | 2026-03-01
+
+# v1.14.1 | 2026-03-01
 
 - Improved performance of linking
 - Delayed Medium Zone Skin Added
