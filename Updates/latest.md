@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.14.5 | 2026-03-02
+
+- Server memory fixes
+- Fixed cabinet decor height
+
 
 # v1.14.1 | 2026-03-01
 
