@@ -2,7 +2,7 @@
 title: Road Map
 description: 
 published: true
-date: 2026-02-24T14:22:48.615Z
+date: 2026-03-05T20:01:28.650Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-15T17:14:55.135Z
@@ -16,14 +16,14 @@ These are features that aren't quite ready but are planned.
 ## More Humanoid SCPs (EUCLID & KETER)
 - More SCPs focused on humanoid SCPs that interact and move arround your facility.
 
-## Servers Increase to 6 Players [Planned]
+## Servers Increase to 6 Players 
 - The timing of this is still unknown as there are massive performance implications for this change. A lot of time will need to be spent micro-optimizing the NPCs and pathfinding to acomplish this.
 
-## Breach Protocol [Planned]
+## Breach Protocol
 - Humanoid SCPs (seperate research requirement) have a chance to breach depending on a variety of to be determined factors.
 - The entire facility will go on lockdown during a breach, testing will be paused, the SCPs may kill staff
 
-## Chaos Insurgency Raid [Planned]
+## Chaos Insurgency Raid
 - Chaos Insurgents may randomly enter the facility and raid (at a certain level). 
 - The entire facility will go on lockdown during a raid, testing will be paused, the Insurgents may kill staff
 
