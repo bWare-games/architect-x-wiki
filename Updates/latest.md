@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.14.7 | 2026-03-07
+
+- Improved loading objects performance
+
 # v1.14.6 | 2026-03-06
 
 - Much faster pathfinding grid update
