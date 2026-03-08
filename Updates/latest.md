@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.14.9 | 2026-03-08
+
+- SCP 999 now roams per someones request
+
 # v1.14.7 | 2026-03-07
 
 - Improved loading objects performance
