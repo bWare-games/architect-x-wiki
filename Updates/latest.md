@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.14.11 | 2026-03-09
+
+- Fixed server lag spikes when teleporting to different bases
+- Improved NPC rotations
+
 # v1.14.9 | 2026-03-08
 
 - SCP 999 now roams per someones request
