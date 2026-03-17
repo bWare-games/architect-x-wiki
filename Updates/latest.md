@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.14.12 | 2026-03-17
+
+- Fixed performance issues with NPCs
+- Fixed floor tape alignment
+- Fixed some pathfinding issues
+
 # v1.14.11 | 2026-03-09
 
 - Fixed server lag spikes when teleporting to different bases
