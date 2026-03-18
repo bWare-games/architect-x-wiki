@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.14.13 | 2026-03-18
+
+- New replication system (MAY BE BUGS)
+- Server side collision checks
+- Pathfinding adjustments and fixes
+
 # v1.14.12 | 2026-03-17
 
 - Fixed performance issues with NPCs
