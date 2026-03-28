@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.14.14 | 2026-03-28
+
+- Internal fixes
+- Class D Riot freeze fixes
+- SCP dupe fixes
+- Deletion fixes
+
 # v1.14.13 | 2026-03-18
 
 - New replication system (MAY BE BUGS)
