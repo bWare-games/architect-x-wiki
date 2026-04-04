@@ -7,6 +7,17 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.15.0 | 2026-04-04
+
+##Updates
+- SCP 294
+   - Personnel will also use SCP 294 for coffee
+- Warehouse Pack
+##Fixes
+- Build/Delete fixes
+- NPCs freezing fixes
+- Replication system improvements
+
 # v1.14.14 | 2026-03-28
 
 - Internal fixes
