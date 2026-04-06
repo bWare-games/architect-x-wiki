@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.15.1 | 2026-04-06
+
+- Echo, Neo, Elevated build skins can be attained via in-game cash
+
 # v1.15.0 | 2026-04-04
 
 ##Updates
