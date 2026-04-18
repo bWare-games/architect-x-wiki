@@ -7,6 +7,33 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.16.0 | 2026-04-18
+
+## Updates
+- Facility Build Skin
+- Multiplayer System
+- Added a credits UI.
+- Implemented SCP-173 fully.
+- Added object effect pathfinding costs.
+- Added an adaptive pathfinding detail system.
+- Added a new containment zone skin pack.
+- Added support for linking patrol / guard points to SCPs for tests.
+
+## Changes
+- Removed existing count from the tutorial gating proceeding steps.
+- Improved NPC animations.
+- Changed NPC firing so it no longer removes money after purchase; the slot is bought once and kept forever.
+- Improved selection behavior.
+
+## Fixes
+- Fixed bugs in behavior trees.
+- Improved test reliability.
+- Added more stability fixes.
+- Fixed engineer behavior tree issues.
+- Fixed analytics issues.
+- Fixed toilet usage issues.
+- Fixed SCP test issues.
+
 # v1.15.1 | 2026-04-06
 
 - Echo, Neo, Elevated build skins can be attained via in-game cash
