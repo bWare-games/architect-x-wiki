@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2025-05-04T06:27:06.560Z
 ---
+# v1.16.2 | 2026-04-18
+
+Server Memory Fixes
+
 # v1.16.1 | 2026-04-18
 
 - Performance Improvements
