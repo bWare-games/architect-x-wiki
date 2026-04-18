@@ -2,21 +2,24 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-03-01T21:31:25.070Z
+date: 2026-04-18T20:32:15.026Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-04T06:27:06.560Z
+dateCreated: 2026-04-18T16:48:56.625Z
 ---
+
+# v1.16.4 | 2026-04-18
+- Fixed a critical issue where doctors would not heal because they had low health
+- Fixed long decimal numbers breaking save files
+- Internal errors with linking
+# v1.16.3 | 2026-04-18
+- Patrol Station Fixes
+- Riot performance fixes
 # v1.16.2 | 2026-04-18
-
-Server Memory Fixes
-
+- Server Memory Fixes
 # v1.16.1 | 2026-04-18
-
 - Performance Improvements
-
 # v1.16.0 | 2026-04-18
-
 ## Updates
 - Facility Build Skin
 - Multiplayer System
@@ -48,11 +51,11 @@ Server Memory Fixes
 
 # v1.15.0 | 2026-04-04
 
-##Updates
+## Updates
 - SCP 294
    - Personnel will also use SCP 294 for coffee
 - Warehouse Pack
-##Fixes
+## Fixes
 - Build/Delete fixes
 - NPCs freezing fixes
 - Replication system improvements
