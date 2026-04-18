@@ -2,15 +2,11 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-04-18T20:34:10.526Z
+date: 2026-04-18T20:42:31.955Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
-# v1.16.4 | 2026-04-18
-
-- Fixed a critical issue where doctors would not heal because they had low health
-
 
 # v1.16.4 | 2026-04-18
 - Fixed a critical issue where doctors would not heal because they had low health
