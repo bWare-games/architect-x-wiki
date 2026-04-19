@@ -2,11 +2,12 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-04-18T20:42:31.955Z
+date: 2026-04-19T15:34:12.276Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+
 # v1.16.6 | 2026-04-19
 
 - Fixed SCP/Station display names in build mode.
@@ -19,22 +20,16 @@ dateCreated: 2026-04-18T16:48:56.625Z
 - Tutorial improvements
 - Removed access to exterior
 
-# v1.16.5 | 2026-04-19
+# v1.16.1 - v1.16.5 | 2026-04-19
 
 - UI Scaling Fixes
 - Removed Settings/Notification/Feedback HUD icon to clean up UI
-
-
-# v1.16.4 | 2026-04-18
 - Fixed a critical issue where doctors would not heal because they had low health
 - Fixed long decimal numbers breaking save files
 - Internal errors with linking
-# v1.16.3 | 2026-04-18
 - Patrol Station Fixes
 - Riot performance fixes
-# v1.16.2 | 2026-04-18
 - Server Memory Fixes
-# v1.16.1 | 2026-04-18
 - Performance Improvements
 # v1.16.0 | 2026-04-18
 ## Updates
