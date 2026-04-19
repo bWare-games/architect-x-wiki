@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.16.5 | 2026-04-19
+
+- UI Scaling Fixes
+- Removed Settings/Notification/Feedback HUD icon to clean up UI
+
 
 # v1.16.4 | 2026-04-18
 - Fixed a critical issue where doctors would not heal because they had low health
