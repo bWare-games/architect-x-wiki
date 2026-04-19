@@ -7,6 +7,18 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.16.6 | 2026-04-19
+
+- Fixed SCP/Station display names in build mode.
+- Added tutorial to help page.
+- Fixed Multiplayer issues
+- Fixed Upgrade tree
+- Fixed some server errors
+- Deletion accuracy fixes
+- Gamepad/Console improvements
+- Tutorial improvements
+- Removed access to exterior
+
 # v1.16.5 | 2026-04-19
 
 - UI Scaling Fixes
