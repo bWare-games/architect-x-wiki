@@ -7,6 +7,21 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.17.0 | 2026-05-02
+
+## Updates
+- SCP 008
+- Expanded Build Area + Raised Build Limits
+- Decorations reworked
+- Maintenance, Office, Architect skin reworked
+## Changes & Fixes
+- UI Updates & Improvements
+- Mobile fixes
+- Console fixes
+- Better tutorial and contextual tips
+- Numerous bug fixes
+- SCP 173 fixes
+
 
 # v1.16.6 | 2026-04-19
 
