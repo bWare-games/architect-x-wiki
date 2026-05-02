@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.17.2 | 2026-05-02
+
+- Fixed context tips
+- Fixed 2nd floor placement
+- Increased large generator power output
+
 # v1.17.1 | 2026-05-02
 
 - Build fixes
