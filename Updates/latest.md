@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.17.1 | 2026-05-02
+
+- Build fixes
+- Internal error fixes
+- UI Fixes
+
 # v1.17.0 | 2026-05-02
 
 ## Updates
