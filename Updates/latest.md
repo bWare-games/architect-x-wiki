@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.17.3 | 2026-05-03
+
+- Batch move/delete
+- Other fixes
+
 # v1.17.2 | 2026-05-02
 
 - Fixed context tips
