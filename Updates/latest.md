@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.17.4 | 2026-05-05
+
+- Placement Fixes
+
 # v1.17.3 | 2026-05-03
 
 - Batch move/delete
