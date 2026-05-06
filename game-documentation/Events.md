@@ -2,7 +2,7 @@
 title: Events
 description: 
 published: true
-date: 2026-04-19T15:43:24.467Z
+date: 2026-05-06T01:30:23.106Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:59.125Z
@@ -33,4 +33,4 @@ Info about CI Raid Event
 ## Class D Riot
 
 -   Class Ds who are neglected and lack of security monitoring will riot
--   The entire facility will go on lockdown during a riot, testing will be paused, Class Ds might kill staff
+-   The entire facility will go on lockdown during a riot, testing will be paused, Class Ds might kill staff, a facility lockdown will also trigger any alarms in the facility (If bought).
