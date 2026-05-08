@@ -2,7 +2,7 @@
 title: Locations
 description: 
 published: true
-date: 2026-05-05T22:17:24.432Z
+date: 2026-05-08T21:33:55.685Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:49:01.449Z
@@ -15,4 +15,4 @@ dateCreated: 2026-04-18T16:49:01.449Z
 
 You can only build in your facility.
 
-Wile there used to be an exterior map, it was ultimately removed.
+While there used to be an exterior map, it was ultimately removed. The reason for this was mostly lag on older devices, and the fact that rarely anyone actually saw the exterior. Thus, it was chosen to be removed in v1.16.6.
