@@ -2,34 +2,24 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-04-19T15:34:12.276Z
+date: 2026-05-10T18:03:19.174Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
-# v1.17.6 | 2026-05-10
+
+
+# v1.17.1-6 | 2026-05-10
 
 - Economy Scaling Adjustments
 - Client-side optimizations
-- Fixed multi move issues.
-
-# v1.17.4 | 2026-05-05
-
+- Mass move fixes
+- Client memory fixes
+- Out of bounds placement fixes (sunken objects for example)
 - Placement Fixes
-
-# v1.17.3 | 2026-05-03
-
-- Batch move/delete
-- Other fixes
-
-# v1.17.2 | 2026-05-02
-
 - Fixed context tips
 - Fixed 2nd floor placement
 - Increased large generator power output
-
-# v1.17.1 | 2026-05-02
-
 - Build fixes
 - Internal error fixes
 - UI Fixes
