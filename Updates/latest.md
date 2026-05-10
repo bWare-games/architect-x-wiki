@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.17.6 | 2026-05-10
+
+- Economy Scaling Adjustments
+- Client-side optimizations
+- Fixed multi move issues.
+
 # v1.17.4 | 2026-05-05
 
 - Placement Fixes
