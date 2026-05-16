@@ -2,12 +2,13 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-05-10T18:03:19.174Z
+date: 2026-05-16T16:17:41.832Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
-# v1.17.7 | 2026-05-16
+
+# v1.18.0 | 2026-05-16
 
 - SCP 067
 - SCP 216
