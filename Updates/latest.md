@@ -7,6 +7,15 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.17.7 | 2026-05-16
+
+- SCP 067
+- SCP 216
+- New Barriers, Boxes, User Editable Signs
+- Stairs
+- New Pack
+- Misc Fixes and Improvements
+
 
 
 # v1.17.1-6 | 2026-05-10
