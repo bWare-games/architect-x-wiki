@@ -2,27 +2,20 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-05-16T16:17:41.832Z
+date: 2026-05-17T16:51:31.303Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
-# v1.18.3 | 2026-05-17
+
+# v1.18.1-3 | 2026-05-17
 
 - Client Performance Improvements
 - Elevator Fixes
 - Wall Speaker Added
 - Boxes Added
 - Plant Beds Added
-
-# v1.18.2 | 2026-05-16
-
-Pathfinding Fixes
-
-# v1.18.1 | 2026-05-16
-
-- Bug Fixes
-
+- Pathfinding Fixes
 
 # v1.18.0 | 2026-05-16
 
