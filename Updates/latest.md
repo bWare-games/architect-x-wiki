@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.18.4 | 2026-05-17
+
+- 6 Player Servers
+- Daily Reward System + Exclusive Pack
+
 
 # v1.18.1-3 | 2026-05-17
 - Client performance improvements
