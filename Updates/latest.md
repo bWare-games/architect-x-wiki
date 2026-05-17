@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.18.3 | 2026-05-17
+
+- Client Performance Improvements
+- Elevator Fixes
+- Wall Speaker Added
+- Boxes Added
+- Plant Beds Added
+
 # v1.18.2 | 2026-05-16
 
 Pathfinding Fixes
