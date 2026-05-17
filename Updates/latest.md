@@ -2,7 +2,7 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-05-17T18:16:54.384Z
+date: 2026-05-17T18:17:15.661Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
@@ -11,7 +11,7 @@ dateCreated: 2026-04-18T16:48:56.625Z
 # v1.18.4 | 2026-05-17
 
 - 6 Player Servers
-- Daily Reward System + Exclusive Pack (Rewarded on Day 6)
+- Daily Reward System + Exclusive Pack (Rewarded on Day 7)
 
 
 # v1.18.1-3 | 2026-05-17
