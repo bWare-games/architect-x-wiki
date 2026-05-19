@@ -2,16 +2,19 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-05-17T18:17:15.661Z
+date: 2026-05-19T00:55:37.279Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+
 # v1.18.5 | 2026-05-18
 
 - Base Loading Performance Improvements
 - Replication Performance Improvements
 - Build Limits Increased (30,000 for total)
+- Removed Map/Terrain
+- Intro Menu Featuring Build Contest
 
 
 # v1.18.4 | 2026-05-17
