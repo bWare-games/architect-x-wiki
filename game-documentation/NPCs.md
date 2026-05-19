@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2026-04-19T15:43:02.754Z
+date: 2026-05-19T03:26:02.452Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:49:02.535Z
@@ -24,7 +24,7 @@ This is a list of current NPCs within the game, their function, and cost to hire
 |--------------|--------------|----------|
 | Scientist | Performs tests using test subjects. | $1000+ |
 | Security | Required for testing Euclid humanoid SCPs. | $1500+ |
-| Test Subject | Required for tests to occur. Automatically hired when a D-Class Bed is placed. | Free |
+| Test Subject | Required for tests to occur. Automatically hired when a Class-D Bed is placed. | Free |
 | Engineer | Repairs generators to keep power and repairs broken objects destroyed by test subjects. | $2500+ |
 | Medical | Heals NPCs via the use of stretchers and MRI machines. | $2500+ |
 
