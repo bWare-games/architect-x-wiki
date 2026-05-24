@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.18.8 | 2026-05-24
+
+- Mass movement fixes
+- Fixed base visitors being anchored
+- Doors now go invisible in open state
+
 
 # v1.18.5 | 2026-05-18
 
