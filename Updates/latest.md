@@ -2,34 +2,29 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-05-19T00:55:37.279Z
+date: 2026-05-24T17:07:19.662Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
-# v1.18.8 | 2026-05-24
+
+# v1.18.1-8 | 2026-05-24
 
 - Mass movement fixes
 - Fixed base visitors being anchored
 - Doors now go invisible in open state
-
-
-# v1.18.5 | 2026-05-18
-
+- Game replicator V2
+	- This might break a lot of stuff
+- UI Fixes & Improvements
+- Improved error UI recovery
+- Wall Speaker Fixes
 - Base Loading Performance Improvements
 - Replication Performance Improvements
 - Build Limits Increased (30,000 for total)
 - Removed Map/Terrain
 - Intro Menu Featuring Build Contest
-
-
-# v1.18.4 | 2026-05-17
-
 - 6 Player Servers
 - Daily Reward System + Exclusive Pack (Rewarded on Day 7)
-
-
-# v1.18.1-3 | 2026-05-17
 - Client performance improvements
 - Elevator and pathfinding fixes
 - Added wall speaker, boxes, and plant beds
