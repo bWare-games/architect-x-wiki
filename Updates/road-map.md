@@ -2,10 +2,10 @@
 title: Road Map
 description: 
 published: true
-date: 2026-03-05T20:01:28.650Z
+date: 2026-05-24T21:39:57.867Z
 tags: 
 editor: markdown
-dateCreated: 2025-05-15T17:14:55.135Z
+dateCreated: 2026-04-18T16:48:57.938Z
 ---
 
 # Road Map
@@ -16,8 +16,6 @@ These are features that aren't quite ready but are planned.
 ## More Humanoid SCPs (EUCLID & KETER)
 - More SCPs focused on humanoid SCPs that interact and move arround your facility.
 
-## Servers Increase to 6 Players 
-- The timing of this is still unknown as there are massive performance implications for this change. A lot of time will need to be spent micro-optimizing the NPCs and pathfinding to acomplish this.
 
 ## Breach Protocol
 - Humanoid SCPs (seperate research requirement) have a chance to breach depending on a variety of to be determined factors.
@@ -29,6 +27,9 @@ These are features that aren't quite ready but are planned.
 
 
 # Completed
+## Servers Increase to 6 Players 
+- The timing of this is still unknown as there are massive performance implications for this change. A lot of time will need to be spent micro-optimizing the NPCs and pathfinding to acomplish this.
+
 ## Building System Overhaul
 - Rotate in 45 Degree Angles
 - Angled Walls/Doors
