@@ -2,7 +2,7 @@
 title: Events
 description: 
 published: true
-date: 2026-05-06T01:30:23.106Z
+date: 2026-05-25T13:56:22.621Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:59.125Z
@@ -28,9 +28,13 @@ Info about Breach Event
 
 ## Chaos Insurgency Raid
 
-Info about CI Raid Event
+Info about CI Raid Event (TBA)
 
-## Class D Riot
+## Class-D Riot
 
--   Class Ds who are neglected and lack of security monitoring will riot
--   The entire facility will go on lockdown during a riot, testing will be paused, Class Ds might kill staff, a facility lockdown will also trigger any alarms in the facility (If bought).
+-   Class-Ds have a chance to riot every minute according to the percentage dislayed on the Emergency Intelligence (MAYBE, STILL IN PROG)
+
+- Factors that increase the bar:
+
+
+- The entire facility will go on lockdown during a riot, testing will be paused, Class Ds might kill staff, a facility lockdown will also trigger any alarms in the facility (If bought).
