@@ -2,7 +2,7 @@
 title: Events
 description: 
 published: true
-date: 2026-05-26T16:17:24.388Z
+date: 2026-05-26T16:18:02.100Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:59.125Z
@@ -32,7 +32,7 @@ Info about CI Raid Event (TBA)
 
 ## Class-D Riot
 
--   Class-Ds have a chance to riot every minute according to the percentage dislayed on the Emergency Intelligence (MAYBE, STILL IN PROG)
+-   Class-Ds have a chance to riot every minute according to the percentage dislayed on the Emergency Intelligence.
 
 - Factors that increase the bar:
 Contraband, put cameras and Metal Detectors to reduce it.
