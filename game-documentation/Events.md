@@ -2,7 +2,7 @@
 title: Events
 description: 
 published: true
-date: 2026-05-26T16:18:02.100Z
+date: 2026-05-26T16:28:44.839Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:59.125Z
@@ -36,6 +36,17 @@ Info about CI Raid Event (TBA)
 
 - Factors that increase the bar:
 Contraband, put cameras and Metal Detectors to reduce it.
-Critical Needs, put bed, toilets, etc for Class-D. 
+Critical Needs, put bed, toilets, etc for Class-D.
+Security Ratio, Reduce Class-D and Hire more Security Staff to reduce it.
 
-- The entire facility will go on lockdown during a riot, testing will be paused, Class Ds might kill staff, a facility lockdown will also trigger any alarms in the facility (If bought).
+
+*In an event of Class-D Riot, the Foundation will:*
+Halt all research.
+Non-security staff will panic and run. 
+Security staff will focus on terminating all Class-Ds.
+
+*In an event of Class-D Riot, the Class-D will:*
+Harm all Foundation staff.
+Destroy various objects (beds, toilets, etc)
+
+**-A Class-D Riot will end when all Class-Ds are dead.**
