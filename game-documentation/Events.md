@@ -2,7 +2,7 @@
 title: Events
 description: 
 published: true
-date: 2026-05-26T03:53:40.310Z
+date: 2026-05-26T16:17:24.388Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:59.125Z
@@ -34,7 +34,8 @@ Info about CI Raid Event (TBA)
 
 -   Class-Ds have a chance to riot every minute according to the percentage dislayed on the Emergency Intelligence (MAYBE, STILL IN PROG)
 
-- Factors that increase the bar: COntraband, Guard Ratio, and base
-
+- Factors that increase the bar:
+Contraband, put cameras and Metal Detectors to reduce it.
+Critical Needs, put bed, toilets, etc for Class-D. 
 
 - The entire facility will go on lockdown during a riot, testing will be paused, Class Ds might kill staff, a facility lockdown will also trigger any alarms in the facility (If bought).
