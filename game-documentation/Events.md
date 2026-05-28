@@ -2,7 +2,7 @@
 title: Events
 description: 
 published: true
-date: 2026-05-26T16:38:16.880Z
+date: 2026-05-28T11:21:42.476Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:59.125Z
@@ -32,7 +32,7 @@ Info about CI Raid Event (TBA)
 
 ## Class-D Riot
 
-![class-d_bar.png](/class-d_bar.png)An Picture of Class-D Riot Risk
+![class-d_bar.png](/class-d_bar.png)A Picture of Class-D Riot Risk
 
 -   Class-Ds have a chance to riot every minute according to the percentage dislayed on the Emergency Intelligence.
 
