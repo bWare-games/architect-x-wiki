@@ -2,18 +2,19 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-05-24T17:07:19.662Z
+date: 2026-05-30T16:08:36.648Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+
 # v1.19.0 | 2026-05-30
 
 ## Updates
 - SCP 049
 - SCP 708
 - NPC filtering for doors and tapes (tapes moved to furnishing)
-- New Laboratory Skin (to be added later this wekend)
+- New Laboratory Skin (to be added later this weekend)
 - MTF (no real use yet, stay tuned!)
 - Mass delete per sector (found in Management UI)
 - UI Color change (slightly darker, easier to see, red)
