@@ -7,6 +7,23 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.19.0 | 2026-05-30
+
+## Updates
+- SCP 049
+- SCP 708
+- NPC filtering for doors and tapes (tapes moved to furnishing)
+- New Laboratory Skin (to be added later this wekend)
+- MTF (no real use yet, stay tuned!)
+- Mass delete per sector (found in Management UI)
+- UI Color change (slightly darker, easier to see, red)
+- More Music courtsey J.R. Eggstorm
+
+## Fixes
+- Pathfinding Fixes
+- NPC Needs Fixes
+- Stability Improvements
+
 
 # v1.18.1-8 | 2026-05-24
 
