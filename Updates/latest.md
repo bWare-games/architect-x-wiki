@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.19.1 | 2026-05-31
+
+- Fixed healing
+- Fixed max HP
+- Fixed teleport issues
+
 
 # v1.19.0 | 2026-05-30
 
