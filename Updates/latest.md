@@ -2,14 +2,12 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-05-30T16:08:36.648Z
+date: 2026-05-31T18:57:32.372Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
-# v1.19.2 | 2026-05-31
 
-Merged sector system (probably going to break stuff)
 
 # v1.19.1 | 2026-05-31
 
