@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.19.15 | 2026-06-03
+
+- Wipe build fixes
+- Wedge collision fixes
+- Low performance mode prompt
+
 # v1.19.14 | 2026-06-03
 
 New Low Performance Mode Setting
