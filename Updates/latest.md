@@ -2,7 +2,7 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-06-03T22:24:25.197Z
+date: 2026-06-03T22:24:40.024Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
@@ -10,11 +10,7 @@ dateCreated: 2026-04-18T16:48:56.625Z
 
 # v1.19.16 | 2026-06-03
 
-- Misc Fixes
 - Riot Improvements
-
-
-# v1.19.1-15 | 2026-06-03
 - New Low Performance Mode Setting
 - Editor Performance Fixes
 - Editor Bug Fixes
