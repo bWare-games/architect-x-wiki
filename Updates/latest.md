@@ -2,37 +2,21 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-05-31T22:42:11.198Z
+date: 2026-06-03T13:09:55.191Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
-# v1.19.15 | 2026-06-03
 
-- Wipe build fixes
-- Wedge collision fixes
-- Low performance mode prompt
-
-# v1.19.14 | 2026-06-03
-
-New Low Performance Mode Setting
-
-# v1.19.13 | 2026-06-03
-
+# v1.19.1-14 | 2026-06-03
+- New Low Performance Mode Setting
 - Editor Performance Fixes
 - Editor Bug Fixes
 - Roof Fixes
 - Collision Fixes
-
-# v1.19.12 | 2026-06-02
-
 - Deletion fixes
 - Wipe fixes
 - Selection fixes
-
-
-# v1.19.1-5 | 2026-05-31
-
 - Sectors Merged
 - Fixed healing
 - Fixed max HP
