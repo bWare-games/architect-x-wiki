@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.19.14 | 2026-06-03
+
+New Low Performance Mode Setting
+
 # v1.19.13 | 2026-06-03
 
 - Editor Performance Fixes
