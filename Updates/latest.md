@@ -7,6 +7,15 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.19.21 | 2026-06-05
+
+- Fixed SCP 049
+- Improved Debug Path Grid
+- Improve Performance with Mass Move
+- Added NPC status to selection mode
+- Added NPC roam mechanic
+- SCP Logs for troubleshooting (found when in debug mode and click a SCP in selection mode)
+
 
 # v1.19.16 | 2026-06-03
 
