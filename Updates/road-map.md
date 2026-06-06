@@ -2,7 +2,7 @@
 title: Road Map
 description: 
 published: true
-date: 2026-05-24T21:39:57.867Z
+date: 2026-06-06T22:13:21.784Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:57.938Z
@@ -38,7 +38,7 @@ These are features that aren't quite ready but are planned.
 - More skins to come later, two skins available now
 
 ## Sector System
-- 2 Sectors you can Build in; Sector 1 and Sector 2; Sector 3 and OMEGA coming at a future date
+- 2 Sectors you can Build in; Sector 1 and Sector 2; Sector 3
 
 
 ## Class D Riot
