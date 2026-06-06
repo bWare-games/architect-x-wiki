@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.19.22 | 2026-06-06
+
+- Newer optmized pathfinding system
+- Riot event performance improvements and throttling
+
 # v1.19.21 | 2026-06-05
 
 - Fixed SCP 049
