@@ -2,7 +2,7 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-06-07T02:39:49.719Z
+date: 2026-06-07T02:39:58.554Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
@@ -10,7 +10,6 @@ dateCreated: 2026-04-18T16:48:56.625Z
 
 # v1.19.1-22 | 2026-06-06
 
-- Newer optmized pathfinding system
 - Riot event performance improvements and throttling
 - Fixed SCP 049
 - Improved Debug Path Grid
