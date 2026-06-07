@@ -2,7 +2,7 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-06-07T02:40:04.812Z
+date: 2026-06-07T02:40:18.485Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
@@ -10,26 +10,7 @@ dateCreated: 2026-04-18T16:48:56.625Z
 
 # v1.19.1-22 | 2026-06-06
 
-- Riot event performance improvements and throttling
-- Improved Debug Path Grid
-- Improve Performance with Mass Move
-- Added NPC status to selection mode
-- Added NPC roam mechanic
-- SCP Logs for troubleshooting (found when in debug mode and click a SCP in selection mode)
-- Riot Improvements
-- New Low Performance Mode Setting
-- Editor Performance Fixes
-- Editor Bug Fixes
-- Roof Fixes
-- Collision Fixes
-- Deletion fixes
-- Wipe fixes
-- Selection fixes
-- Sectors Merged
-- Fixed healing
-- Fixed max HP
-- Fixed teleport issues
-
+- Performance & Stability Fixes
 
 # v1.19.0 | 2026-05-30
 
