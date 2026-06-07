@@ -2,28 +2,22 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-06-03T22:24:40.024Z
+date: 2026-06-07T02:39:49.719Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
-# v1.19.22 | 2026-06-06
+
+# v1.19.1-22 | 2026-06-06
 
 - Newer optmized pathfinding system
 - Riot event performance improvements and throttling
-
-# v1.19.21 | 2026-06-05
-
 - Fixed SCP 049
 - Improved Debug Path Grid
 - Improve Performance with Mass Move
 - Added NPC status to selection mode
 - Added NPC roam mechanic
 - SCP Logs for troubleshooting (found when in debug mode and click a SCP in selection mode)
-
-
-# v1.19.16 | 2026-06-03
-
 - Riot Improvements
 - New Low Performance Mode Setting
 - Editor Performance Fixes
