@@ -2,7 +2,7 @@
 title: Events
 description: 
 published: true
-date: 2026-05-28T11:21:42.476Z
+date: 2026-06-13T14:43:57.954Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:59.125Z
@@ -24,7 +24,12 @@ Your foundation has a game loop that determines many events. This section will o
 
 ## **Breach**
 
-Info about Breach Event
+-   Some SCPs have a chance to riot every minute according to the percentage dislayed on the Emergency Intelligence.
+
+- Factors that increase the bar:
+Security Deficit.
+SCP Class Danger
+Post-Riot Instability
 
 ## Chaos Insurgency Raid
 
