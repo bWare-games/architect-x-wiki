@@ -2,7 +2,7 @@
 title: Upgrades
 description: Research in SCP Architect X
 published: true
-date: 2026-06-10T20:09:48.185Z
+date: 2026-06-13T11:32:15.513Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:49:04.487Z
@@ -14,7 +14,7 @@ Upgrades in SCP Architect X allows players to unlock new features within the gam
 The Upgrade Tree is accessible by the three arrows icon in the bottom center of the toolbar. It displays the amount of money you have and the features you can (or have) unlocked. 
 
 ![upgrade_showcase_(v1.19.23).gif](/upgrade_showcase_(v1.19.23).gif)
-The Upgrade Tree as of V1.19.23 
+The Upgrade Tree as of V1.19.23 (OUTDATED)
 
 ## Current Upgrades
 Below is a table containing all current upgrades accessible in-game, including their use, cost and required previous upgrades.
