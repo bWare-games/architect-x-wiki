@@ -2,7 +2,7 @@
 title: Events
 description: 
 published: true
-date: 2026-06-13T14:43:57.954Z
+date: 2026-06-13T16:29:22.436Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:59.125Z
@@ -23,6 +23,7 @@ Your foundation has a game loop that determines many events. This section will o
 ### Scientist Death 2
 
 ## **Breach**
+![scp_bar.png](/scp_bar.png)
 
 -   Some SCPs have a chance to riot every minute according to the percentage dislayed on the Emergency Intelligence.
 
