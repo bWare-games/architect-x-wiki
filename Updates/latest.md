@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.20.1 | 2026-06-15
+
+- Build Fixes
+- Pathfinding Fixes
+- Breach Fixes
+
+- NEW Image Signs Pack for Purchase in Shop
+
 # v1.20.0 | 2026-06-13
 
 - SCP Breaches
