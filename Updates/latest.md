@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.20.2 | 2026-06-16
+
+- Object Movement Patches
+- Riot/Breach Reports
+- Tutorial Improvements
+
 # v1.20.1 | 2026-06-15
 
 - Build Fixes
