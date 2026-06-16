@@ -2,7 +2,7 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-06-16T00:59:06.678Z
+date: 2026-06-16T00:59:25.577Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
@@ -16,9 +16,9 @@ dateCreated: 2026-04-18T16:48:56.625Z
 - Build Fixes
 - Pathfinding Fixes
 - Breach Fixes
+### Updates
+- NEW Image Signs Pack for Purchase in Shop
 
-- **NEW Image Signs Pack for Purchase in Shop
-**
 # v1.20.0 | 2026-06-13
 
 - SCP Breaches
