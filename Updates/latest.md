@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.20.3 | 2026-06-16
+
+- Extended NPC Limits
+- Better Riot/Breach Feedback
+- SCP 173 Fixes
+- Auto Sprint Mobile
+
 
 # v1.20.1-2 | 2026-06-16
 
