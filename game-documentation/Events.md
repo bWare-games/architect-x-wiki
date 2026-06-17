@@ -2,7 +2,7 @@
 title: Events
 description: 
 published: true
-date: 2026-06-17T12:14:16.127Z
+date: 2026-06-17T12:21:07.714Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:59.125Z
@@ -42,7 +42,7 @@ Critical Needs, put bed, toilets, etc for Class-D.
 Security Ratio, Reduce Class-D and Hire more Security Staff to reduce it.
 
 
-*In an event of Class-D Riot, the Foundation will:*
+***In an event of Class-D Riot, the Foundation will:***
 Halt all research.
 Non-security staff will panic and run. 
 Security staff will focus on terminating all Class-Ds.
@@ -52,3 +52,8 @@ Harm all Foundation staff.
 Destroy various objects (beds, toilets, etc)
 
 **-A Class-D Riot will end when all Class-Ds are dead.**
+
+## Feedback Report
+After a breach, riot, or any other events occured, a report will bedocumented and can be viewed in the feedback report.
+![feed_back_report.png](/feed_back_report.png)
+It's recommended to fulfill the suggestions. 
