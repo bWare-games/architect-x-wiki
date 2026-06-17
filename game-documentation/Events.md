@@ -2,7 +2,7 @@
 title: Events
 description: 
 published: true
-date: 2026-06-13T16:29:22.436Z
+date: 2026-06-17T11:38:24.262Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:59.125Z
@@ -30,7 +30,7 @@ Your foundation has a game loop that determines many events. This section will o
 - Factors that increase the bar:
 Security Deficit.
 SCP Class Danger
-Post-Riot Instability
+Post-Riot Instability, Will rise after Class-D Riot is over, will gradually reduce (if not breached already)
 
 ## Chaos Insurgency Raid
 
