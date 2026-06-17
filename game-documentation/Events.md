@@ -2,7 +2,7 @@
 title: Events
 description: 
 published: true
-date: 2026-06-17T11:38:24.262Z
+date: 2026-06-17T12:14:16.127Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:59.125Z
@@ -15,12 +15,6 @@ dateCreated: 2026-04-18T16:48:59.125Z
 ## Foundation Life-Cycle
 
 Your foundation has a game loop that determines many events. This section will outline the order of these events and the actions that will take place. 
-
-### Level Up
-
-### Scientist Death 1
-
-### Scientist Death 2
 
 ## **Breach**
 ![scp_bar.png](/scp_bar.png)
@@ -40,7 +34,7 @@ Info about CI Raid Event (TBA)
 
 ![class-d_bar.png](/class-d_bar.png)A Picture of Class-D Riot Risk
 
--   Class-Ds have a chance to riot every minute according to the percentage dislayed on the Emergency Intelligence.
+-   Class-Ds have a chance to riot every loop according to the percentage dislayed on the Emergency Intelligence.
 
 - Factors that increase the bar:
 Contraband, put cameras and Metal Detectors to reduce it.
