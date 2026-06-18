@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.20.5 | 2026-06-18
+
+- Mobile Camera Improvements
+
 # v1.20.4 | 2026-06-17
 
 - Shop Gifting
