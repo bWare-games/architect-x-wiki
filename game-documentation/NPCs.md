@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2026-06-19T13:38:59.977Z
+date: 2026-06-19T13:42:20.638Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:49:02.535Z
@@ -22,12 +22,12 @@ This is a list of current NPCs within the game, their function, and cost to hire
 
 | **NPC Name** | **Function** | **Cost** | **Picture** |
 |--------------|--------------|----------|-------------|
-| Scientist | Performs tests using test subjects. | $1000+ |
-| Security | Required for testing Euclid humanoid SCPs. | $1500+ |
-| Test Subject | Required for tests to occur. Automatically hired when a Class-D Bed is placed. | Free |
-| Engineer | Repairs generators to keep power and repairs broken objects destroyed by test subjects. | $2500+ |
-| Medical | Heals NPCs via the use of stretchers and MRI machines. | $2500+ |
-| Mobile Task Force | No current use yet. Currently only acts the same as Security.| $10,000+ |	
+| Scientist | Performs tests using test subjects. | $1000+ |![scientist_foundation.png](/scientist_foundation.png)|
+| Security | Required for testing Euclid humanoid SCPs. | $1500+ |![security_foundation.png](/security_foundation.png)
+| Test Subject | Required for tests to occur. Automatically hired when a Class-D Bed is placed. | Free |![class_d_foundation.png](/class_d_foundation.png)
+| Engineer | Repairs generators to keep power and repairs broken objects destroyed by test subjects. | $2500+ |![mechanic.png](/mechanic.png)
+| Medical | Heals NPCs via the use of stretchers and MRI machines. | $2500+ |![doctor_foundation.png](/doctor_foundation.png)
+| Mobile Task Force | No current use yet. Currently only acts the same as Security.| $10,000+ |	![mtf_foundation.png](/mtf_foundation.png)
 
 ---
 
