@@ -2,7 +2,7 @@
 title: Upgrades
 description: Research in SCP Architect X
 published: true
-date: 2026-06-13T11:51:21.597Z
+date: 2026-06-19T20:32:04.285Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:49:04.487Z
@@ -45,7 +45,10 @@ Below is a table containing all current upgrades accessible in-game, including t
 |Mobile Task Force| Unlocks the Mobile Task Force NPC. |$500,000| Humanoid Euclid SCPs|
 |Mobile Task Force |Increases max Mobile Task Forces to 30.| $2,000,000| Mobile Task Force|
 |Turrets| Unlocks turrets.| $750,000| Security Devices|
-|Tesla Gates| Unlocks tesla gates for all build packs.|$350,000| Turrets + Large Generators
+|Tesla Gates| Unlocks tesla gates for all build packs.|$350,000| Turrets + Large Generators|
+|So Many Class Ds| Increases max Class Ds to 30| $1,000,000| Even More Class Ds|
+|The Science Team!| Increases max Scientists to 30| $1,000,000| Even More Scientists|
+|Even More Security| Increases max Security to 30| $1,000,000| Even More Security (Previous)|
 ### Stars (Legacy)
 Upgrade stars were given every time you level up. You can level up by increasing your XP, where one test is equal to one XP given. To check your XP level till next level-up, click the level button in the bottom left of the toolbar. 
 **Stars are no longer used and have been replaced with money instead.**
