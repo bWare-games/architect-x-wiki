@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2026-05-31T00:04:16.425Z
+date: 2026-06-19T13:05:17.609Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:49:02.535Z
@@ -78,6 +78,15 @@ For example, the `17th` scientist (`$1000`) will cost `500 x 1000` = `$500,000`.
 This represents the geometric series sum of all purchases up to `n`.
 
 ---
+
+### NPC Levels
+Various NPC Foundation staff can level up from 0 to 10
+Current NPC that can level up are:
+- Scientist
+- Security 
+- Engineer
+
+Medical and MTF staff can't level up (for now)
 
 # NPC Behavior
 
