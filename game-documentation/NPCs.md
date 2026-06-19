@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2026-06-19T13:42:20.638Z
+date: 2026-06-19T17:13:45.320Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:49:02.535Z
@@ -79,7 +79,7 @@ This represents the geometric series sum of all purchases up to `n`.
 
 ---
 
-### NPC Levels
+## NPC Levels
 Various NPC Foundation staff can level up from 0 to 10.
 The perks are none (for now).
 Current NPC that can level up are:
