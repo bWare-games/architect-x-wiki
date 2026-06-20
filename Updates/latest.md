@@ -7,6 +7,11 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.20.7 | 2026-06-20
+
+- New Base Loading System
+- Potential 173 Fix
+
 
 # v1.20.1-6 | 2026-06-20
 
