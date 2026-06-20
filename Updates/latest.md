@@ -7,6 +7,10 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.20.6 | 2026-06-20
+
+- NPC Banning Tool Tips
+
 # v1.20.5 | 2026-06-18
 
 - Mobile Camera Improvements
