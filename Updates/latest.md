@@ -2,7 +2,7 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-06-20T18:05:27.175Z
+date: 2026-06-20T18:05:42.129Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
@@ -13,7 +13,7 @@ dateCreated: 2026-04-18T16:48:56.625Z
 - Re-skin Feature
 - Global Leaderboard
 - NPCs & Test Fixes
-- New Base Loading System
+- New Base Viewing System
 - NPC Banning Tool Tips
 - Mobile Camera Improvements
 - Shop Gifting
