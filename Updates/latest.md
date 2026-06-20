@@ -2,26 +2,17 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-06-16T05:18:30.891Z
+date: 2026-06-20T00:14:00.959Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
-# v1.20.6 | 2026-06-20
+
+# v1.20.1-6 | 2026-06-20
 
 - NPC Banning Tool Tips
-
-# v1.20.5 | 2026-06-18
-
 - Mobile Camera Improvements
-
-# v1.20.4 | 2026-06-17
-
 - Shop Gifting
-
-
-# v1.20.1-3 | 2026-06-16
-
 - Extended NPC Limits
 - Better Riot/Breach Feedback
 - SCP 173 Fixes
