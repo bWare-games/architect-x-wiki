@@ -2,28 +2,18 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-06-20T00:14:00.959Z
+date: 2026-06-20T18:05:27.175Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
-# v1.20.9 | 2026-06-20
+
+# v1.20.1-9 | 2026-06-20
 
 - Re-skin Feature
-
-# v1.20.8 | 2026-06-20
-
 - Global Leaderboard
 - NPCs & Test Fixes
-
-# v1.20.7 | 2026-06-20
-
 - New Base Loading System
-- Potential 173 Fix
-
-
-# v1.20.1-6 | 2026-06-20
-
 - NPC Banning Tool Tips
 - Mobile Camera Improvements
 - Shop Gifting
