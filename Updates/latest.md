@@ -2,14 +2,14 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-06-20T18:05:42.129Z
+date: 2026-06-20T18:05:58.125Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
 
 # v1.20.1-9 | 2026-06-20
-
+- Extended Max Objects (50,000)
 - Re-skin Feature
 - Global Leaderboard
 - NPCs & Test Fixes
