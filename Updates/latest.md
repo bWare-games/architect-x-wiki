@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v1.21.0 | 2026-06-23
+
+- New NPC Command System
+ - Tell NPCs where they should go!
+- Stability Improvements
+- NPC Ragdoll Death
+
 
 # v1.20.1-9 | 2026-06-20
 - Extended Max Objects (50,000)
