@@ -2,7 +2,7 @@
 title: NPCs
 description: 
 published: true
-date: 2026-06-19T17:13:45.320Z
+date: 2026-06-25T14:14:12.944Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:49:02.535Z
@@ -27,7 +27,7 @@ This is a list of current NPCs within the game, their function, and cost to hire
 | Test Subject | Required for tests to occur. Automatically hired when a Class-D Bed is placed. | Free |![class_d_foundation.png](/class_d_foundation.png)
 | Engineer | Repairs generators to keep power and repairs broken objects destroyed by test subjects. | $2500+ |![mechanic.png](/mechanic.png)
 | Medical | Heals NPCs via the use of stretchers and MRI machines. | $2500+ |![doctor_foundation.png](/doctor_foundation.png)
-| Mobile Task Force | No current use yet. Currently only acts the same as Security.| $10,000+ |	![mtf_foundation.png](/mtf_foundation.png)
+| Mobile Task Force | Handle breaching SCPs better than security staffs. Currently only acts the same as Security.| $10,000+ |	![mtf_foundation.png](/mtf_foundation.png)
 
 ---
 
