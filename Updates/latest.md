@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.0.1 | 2026-07-04
+
+- Placement Fixes
+- NPC Path Preview
+- Client Side Object Fixes
+
 
 # v2.0.0 | 2026-07-04
 
