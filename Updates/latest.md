@@ -7,6 +7,21 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.0.0 | 2026-07-04
+
+## Exiting Beta
+
+SCP 035
+SCP 871
+SCP 158
+SCP 184
+
+New Props
+
+Cold War Pack
+
+2 New Floors
+
 # v1.21.0 | 2026-06-23
 
 - New NPC Command System
