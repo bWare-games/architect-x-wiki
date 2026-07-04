@@ -2,7 +2,7 @@
 title: Upgrades
 description: Research in SCP Architect X
 published: true
-date: 2026-06-19T20:32:04.285Z
+date: 2026-07-04T16:12:50.157Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:49:04.487Z
@@ -22,7 +22,7 @@ Below is a table containing all current upgrades accessible in-game, including t
 | **Upgrade Name** | **Function** | **Cost** | **Requirements** |
 |--------------|--------------|----------|
 |Advanced Research| Allows scientists to research conducted tests and grant 1x of the test profit.|$5000|None|
-|Multiple Floors| Unlocks the use of stairs and elevators.|$25,000| Advanced Research|
+|Second Floor| Unlocks the use of stairs and elevators. Also unlocks the second floor.|$25,000| Advanced Research|
 |Security| Unlocks hiring the security NPC.| $15,000| Advanced Research|
 |Medical Services| Unlocks the medical NPC and stretchers.| $15,000| Advanced Research|
 |Engineering & Technical|Unlocks the engineer NPC.| $12,000| Advanced Research|
@@ -49,6 +49,8 @@ Below is a table containing all current upgrades accessible in-game, including t
 |So Many Class Ds| Increases max Class Ds to 30| $1,000,000| Even More Class Ds|
 |The Science Team!| Increases max Scientists to 30| $1,000,000| Even More Scientists|
 |Even More Security| Increases max Security to 30| $1,000,000| Even More Security (Previous)|
+|Third Floor| Unlocks the third floor.| $175,000| Second Floor|
+|Fourth Floor| Unlocks the fourth floor.| $450,000| Third Floor|
 ### Stars (Legacy)
 Upgrade stars were given every time you level up. You can level up by increasing your XP, where one test is equal to one XP given. To check your XP level till next level-up, click the level button in the bottom left of the toolbar. 
 **Stars are no longer used and have been replaced with money instead.**
