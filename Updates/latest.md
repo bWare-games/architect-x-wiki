@@ -2,25 +2,31 @@
 title: Latest Update
 description: 
 published: true
-date: 2026-06-20T18:05:58.125Z
+date: 2026-07-04T15:55:42.726Z
 tags: 
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+
 # v2.0.0 | 2026-07-04
 
 ## Exiting Beta
 
-SCP 035
-SCP 871
-SCP 158
-SCP 184
+- SCP 035
+- SCP 871
+- SCP 158
+- SCP 184
 
-New Props
+- New Props
 
-Cold War Pack
+- Cold War Pack
 
-2 New Floors
+- 2 New Floors
+
+## Changes
+- Added: Force NPCs to satisfy a need early.
+- Added: Quick wall replace system
+- Other Stability Improvements
 
 # v1.21.0 | 2026-06-23
 
