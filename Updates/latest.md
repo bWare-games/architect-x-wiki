@@ -7,6 +7,13 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.0.3 | 2026-07-08
+
+- New Copy & Paste Feature
+- New Audio Track System
+- Stability Improvements
+- We are Back!
+
 # v2.0.2 | 2026-07-05
 
 - Multi Floor Pathfinding Fixes
