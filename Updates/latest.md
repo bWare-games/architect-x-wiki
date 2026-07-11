@@ -7,6 +7,19 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.0.5 | 2026-07-11
+
+- Building Fixes
+- Multi Floor movement Fixes
+- Mobile Drag selection added
+- Sprint toggle on mobile
+- Variant selection arrows moved to object
+
+- Building Fixes
+- Multi Floor movement Fixes
+- Mobile Drag selection added
+-
+
 # v2.0.4 | 2026-07-10
 
 - Tutorial Improvements
