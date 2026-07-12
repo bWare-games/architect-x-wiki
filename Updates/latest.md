@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.0.6 | 2026-07-12
+
+- More animatons for SCP Tests
+- New Badges!
+- Stability Improvements
+
 # v2.0.5 | 2026-07-11
 
 - Building Fixes
