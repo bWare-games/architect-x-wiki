@@ -7,6 +7,21 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.1.0 | 2026-07-18
+
+- Advanced Customization & Building!
+   - Light Color
+   - Mirror mode & Blueprints
+- Janitors!
+- Two FREE Fence Skins
+- New SCP 185
+- New SCP 062
+- New SCP 079
+- New SCP 4471-01 (The Emergency Shelter)
+- New Props Including Tables & Trusses
+- SCP 173 Reworked
+- SCP 049 Reworked
+
 # v2.0.6 | 2026-07-12
 
 - More animatons for SCP Tests
