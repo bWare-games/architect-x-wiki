@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.2.0 | 2026-07-25
+
+- SCP 407
+- SCP 168
+- Armored Build Skin
+
 # v2.1.0 | 2026-07-18
 
 - Advanced Customization & Building!
