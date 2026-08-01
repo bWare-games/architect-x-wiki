@@ -7,7 +7,7 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
-# v2.2.2 | 2026-08-01
+# v2.3.0 | 2026-08-01
 
 - SCP 096
 - SCP 5560
