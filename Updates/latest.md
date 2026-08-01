@@ -7,6 +7,18 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.2.2 | 2026-08-01
+
+- SCP 096
+- SCP 5560
+- SCP 6650
+- SCP 6378
+- Arc 32 Skin
+- New Avatar Items in Shop
+- Architect Premium Subscription
+- Console Support Improvements
+- Numerous Bug Fixes
+
 # v2.2.0 | 2026-07-25
 
 - SCP 407
