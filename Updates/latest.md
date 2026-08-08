@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.3.2 | 2026-08-08
+
+- SCP 106
+- SCP 914
+- SCP 4012
+- FREE Stairs/Catwalk Pack
+- Gems System
+
 # v2.3.1 | 2026-08-02
 
 - Camera Fixes
