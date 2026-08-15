@@ -7,6 +7,15 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.4.0 | 2026-08-15
+
+- SCP 2207
+- SCP 2890
+- New Decor Items (Rugs, kitchen set, railings)
+- Backrooms Skin
+- Other Fixes
+- NPC Crowding and Queuing Improvements
+
 # v2.3.2 | 2026-08-08
 
 - SCP 106
