@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.5.0 | 2026-08-22
+
+- SCP 457
+- New Props
+- New Roleplay Server Hosting
+- Misc Fixes
+-  Containment Breach and Vintage Admin Skin
+
 # v2.4.0 | 2026-08-15
 
 - SCP 2207
