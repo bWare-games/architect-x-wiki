@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.6.0 | 2026-08-29
+
+- SCP 7621
+- SCP 458
+- SCP 5503
+- New Skin!
+- New Props!
+
 # v2.5.0 | 2026-08-22
 
 - SCP 457
