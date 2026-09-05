@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.7.0 | 2026-09-05
+
+- Zoning Tool
+- New Premium Skin
+- Better NPC Issues
+
 # v2.6.0 | 2026-08-29
 
 - SCP 7621
