@@ -7,6 +7,14 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.8.0 | 2026-09-12
+
+Expanded Build Area (3x)
+SCP 280
+SCP 066
+New Truss Skin
+New Reinforced Keter Skin
+
 # v2.7.0 | 2026-09-05
 
 - Zoning Tool
