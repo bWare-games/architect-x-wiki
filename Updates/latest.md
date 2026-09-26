@@ -7,6 +7,12 @@ tags:
 editor: markdown
 dateCreated: 2026-04-18T16:48:56.625Z
 ---
+# v2.10.0 | 2026-09-26
+
+- SCP 002
+- New Decor
+- Standard Site Skin
+
 # v2.8.0 | 2026-09-12
 
 Expanded Build Area (3x)
